@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983992820823",
+    "project_id": "apt-check",
+    "storage_bucket": "apt-check.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983992820823:android:9324485bf9f25b8f022f12",
+        "android_client_info": {
+          "package_name": "com.mental.aptchecklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983992820823-182pvb881tm77nvop5fd3dv3l52b3hr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqdHYltcaNBD0ds-TynFRBW7rElM_njdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983992820823-182pvb881tm77nvop5fd3dv3l52b3hr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
